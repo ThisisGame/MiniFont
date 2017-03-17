@@ -23,6 +23,7 @@ dist\tools\sfnttool\sfnttool.jar
 # usage
 ```
  java -jar sfnttool.jar  -s "中国造" MicrosoftHeiti.ttf msyh_simplify11.ttf
+ java -jar sfnttool.jar  -s "1.txt" MicrosoftHeiti.ttf msyh_simplify11.ttf
 ```
 
 ![image](https://github.com/ThisisGame/MiniFont/blob/master/doc/2.png)
