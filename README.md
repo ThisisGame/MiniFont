@@ -34,3 +34,6 @@ ant1.10 need java1.8, if you pc run java1.7,choose ant 1.09
 
 ant need tools.jar,you need copy from C:\Program Files\Java\jdk1.7.0_80\lib to C:\Program Files\Java\jre7\lib
 
+如果是中文，txt要设置对应编码
+
+![image](https://github.com/ThisisGame/MiniFont/blob/master/doc/3.png)
